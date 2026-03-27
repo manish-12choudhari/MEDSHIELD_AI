@@ -1,2 +1,2 @@
-"""Frontend package (Streamlit) for MedShield AI."""
+"""Backend package for MedShield AI."""
 

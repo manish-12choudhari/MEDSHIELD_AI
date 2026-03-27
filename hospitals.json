@@ -1,0 +1,82 @@
+[
+  {
+    "id": "h1",
+    "name": "Apollo Hospitals Jubilee Hills",
+    "city": "Hyderabad",
+    "location": { "lat": 17.4319, "lon": 78.4096 },
+    "icu_beds_available": 6,
+    "oxygen_available": true,
+    "doctors_available": 14,
+    "trauma_center": true
+  },
+  {
+    "id": "h2",
+    "name": "KIMS Hospitals Secunderabad",
+    "city": "Hyderabad",
+    "location": { "lat": 17.4433, "lon": 78.4983 },
+    "icu_beds_available": 4,
+    "oxygen_available": true,
+    "doctors_available": 10,
+    "trauma_center": true
+  },
+  {
+    "id": "h3",
+    "name": "Yashoda Hospitals Somajiguda",
+    "city": "Hyderabad",
+    "location": { "lat": 17.4265, "lon": 78.4576 },
+    "icu_beds_available": 2,
+    "oxygen_available": true,
+    "doctors_available": 8,
+    "trauma_center": true
+  },
+  {
+    "id": "h4",
+    "name": "Gandhi Hospital",
+    "city": "Hyderabad",
+    "location": { "lat": 17.4230, "lon": 78.5020 },
+    "icu_beds_available": 1,
+    "oxygen_available": true,
+    "doctors_available": 7,
+    "trauma_center": false
+  },
+  {
+    "id": "h5",
+    "name": "Sunshine Hospitals Gachibowli",
+    "city": "Hyderabad",
+    "location": { "lat": 17.4401, "lon": 78.3549 },
+    "icu_beds_available": 3,
+    "oxygen_available": true,
+    "doctors_available": 9,
+    "trauma_center": true
+  },
+  {
+    "id": "h6",
+    "name": "Goa Medical College & Hospital",
+    "city": "Goa",
+    "location": { "lat": 15.4663, "lon": 73.8231 },
+    "icu_beds_available": 5,
+    "oxygen_available": true,
+    "doctors_available": 11,
+    "trauma_center": true
+  },
+  {
+    "id": "h7",
+    "name": "Manipal Hospitals Goa",
+    "city": "Goa",
+    "location": { "lat": 15.4991, "lon": 73.8260 },
+    "icu_beds_available": 2,
+    "oxygen_available": true,
+    "doctors_available": 6,
+    "trauma_center": true
+  },
+  {
+    "id": "h8",
+    "name": "Sub District Hospital Mapusa",
+    "city": "Goa",
+    "location": { "lat": 15.5957, "lon": 73.8148 },
+    "icu_beds_available": 0,
+    "oxygen_available": true,
+    "doctors_available": 4,
+    "trauma_center": false
+  }
+]
